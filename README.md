@@ -1,4 +1,4 @@
-# GOGS-prediction
+# FIFA-prediction
 
 ## Datasets
 - [World Cup 2018 Dataset.csv](https://www.kaggle.com/ahmedelnaggar/fifa-worldcup-2018-dataset/data)          
